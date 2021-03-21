@@ -1,0 +1,27 @@
+Game starts with main character waking up in her room aboard the generation colony ship Tomlinson.
+As she leaves her room and begins moving around the ship, she discovers she is now the only human on the ship,
+and has no clue what happened to anyone else on the ship. She begins exploring the entire ship, trying to find
+out what caused this mass disappearance. 
+
+
+
+2D side scroller
+- dark atmosphere
+- psychological horror
+- NO ALIENS, NO REAL ENEMIES
+- central conflict will revolve around isolation, sensory depravation, and insecurities
+- sprawling map focused on vertical connectedness
+- the story will be told through notes, very conseratively used character dialogue, and the ship itself
+
+
+Planned features
+- global timer that counts the time the player has been playing without activating a bed or using food/drink.
+the only effect of "sleep deprivation" or dehydration is that as the global timer increases, the % chance
+of audio/visual hallucinations occuring in game increases.
+- hallucinations increase in intensity as global timer climbs until eventually the player succumbs to psycological
+distress
+- 
+- 
+- 
+- 
+- 

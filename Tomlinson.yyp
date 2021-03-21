@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"Generalities","path":"notes/Generalities/Generalities.yy",},"order":15,},
+    {"id":{"name":"HallucinationTimer","path":"objects/HallucinationTimer/HallucinationTimer.yy",},"order":16,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
